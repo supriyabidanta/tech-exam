@@ -1,2 +1,2 @@
 # tech-exam
-Technical exam for dry lab position
+Technical exam for dry lab roles
