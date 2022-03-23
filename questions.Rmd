@@ -10,7 +10,7 @@ output: html_document
 - Organizing content in formats like Rmarkdown or a Jupyter notebook is preferred but not required.
 - No question has a single correct method. Even if you aren't able to arrive at an answer, still expand on your thought process.
 - All tools, languages, and resources are fair game.
-- Upload your submission [here](https://docs.google.com/forms/d/e/1FAIpQLSfajIaqnyOZhNfygrcwkL9_HmCwfhAPxiBJco_gSnUJN0HB3w/viewform?usp=sf_link).
+- **Upload all files for your submission [here](https://docs.google.com/forms/d/e/1FAIpQLSfajIaqnyOZhNfygrcwkL9_HmCwfhAPxiBJco_gSnUJN0HB3w/viewform?usp=sf_link)** with titles that include your name (e.g. `chris_tastad_output.pdf`)
 
 ### Questions
 1. **Print the values of an integer vector 1:100, but**
