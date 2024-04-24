@@ -7,7 +7,7 @@ This is an open-book assessment that may take a couple hours to complete. All to
 ## Prompts
 
 #### 1) Debug this code
-The code in this directory performs the core preprocessing workflow of the scanpy framework, but it does not currently work.
+The code in this directory performs the core preprocessing workflow of the scanpy framework, but it does not currently work. Issues with this routine may be present in either script.
    
    - Assess the code for issues, and contribute changes that will allow it to run to completion according to single cell processing best practices.
    - Elaborate on your changes and logic with inline comments.
