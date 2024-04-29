@@ -23,6 +23,7 @@ dependencies:
 - exceptiongroup=1.2.0=pyhd8ed1ab_2
 - fonttools=4.51.0=py312h98912ed_0
 - freetype=2.12.1=h267a509_2
+- fastqc=0.12.1
 - get-annotations=0.1.2=pyhd8ed1ab_0
 - glpk=5.0=h445213a_0
 - gmp=6.3.0=h59595ed_1
@@ -79,6 +80,7 @@ dependencies:
 - llvmlite=0.42.0=py312hb06c811_1
 - matplotlib-base=3.8.4=py312he5832f3_0
 - munkres=1.1.4=pyh9f0ad1d_0
+- multiqc=1.21
 - natsort=8.4.0=pyhd8ed1ab_0
 - ncurses=6.4.20240210=h59595ed_0
 - networkx=3.3=pyhd8ed1ab_1
