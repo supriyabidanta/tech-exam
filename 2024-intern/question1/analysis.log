@@ -1,0 +1,21 @@
+2024-04-27 23:00:56 - INFO - Data loaded and variable names made unique for all samples.
+2024-04-27 23:00:56 - INFO - Cell filtering applied. Min genes: 200, Max genes: 2500
+2024-04-27 23:00:57 - INFO - Gene filtering applied. Min cells per gene: 3
+2024-04-27 23:00:57 - WARNING - No mitochondrial genes found. QC metrics for mitochondrial content set to 0.
+2024-04-27 23:00:57 - INFO - Quality control checks completed.
+2024-04-27 23:00:57 - INFO - Normalization by total counts with target sum: 10000.0
+2024-04-27 23:00:57 - INFO - Logarithmic transformation applied.
+2024-04-27 23:00:57 - INFO - Data normalization completed.
+2024-04-27 23:00:57 - INFO - Selection of highly variable genes completed.
+2024-04-27 23:04:15 - INFO - Regression out of variables: ['total_counts', 'pct_counts_mt']
+2024-04-27 23:04:16 - INFO - Data scaling applied with max value: 10
+2024-04-27 23:04:16 - INFO - Feature selection completed.
+2024-04-27 23:04:16 - INFO - Attempting Leiden clustering, check for neighbors in .uns: False
+2024-04-27 23:04:16 - ERROR - Neighbors data missing, cannot perform Leiden clustering
+2024-04-27 23:04:16 - INFO - Running PCA and UMAP/Neighbors computation...
+2024-04-27 23:06:13 - INFO - PCA done, check PCA data: True
+2024-04-27 23:06:43 - INFO - Neighbors set for UMAP: True
+2024-04-27 23:06:43 - INFO - Attempting Leiden clustering, check for neighbors in .uns: True
+2024-04-27 23:06:43 - INFO - Leiden clustering executed successfully.
+2024-04-27 23:06:43 - INFO - Leiden clustering completed successfully.
+2024-04-27 23:06:43 - INFO - Ready to run clustering, neighbors available: True
